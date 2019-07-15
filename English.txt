@@ -43,5 +43,5 @@ message: {
       wrapper: 'Wrapper',
       date_format: 'Date format',
       time_format: 'Time format',
-      import: "Import"
+      import: 'Import'
     }

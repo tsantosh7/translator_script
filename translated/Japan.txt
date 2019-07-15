@@ -1,0 +1,47 @@
+message: {
+      new_snippet: '新しいスニペット'、
+      all_snippets: 'すべてのスニペット'、
+      dashboard: 'ダッシュボード'、
+      import_export: 'インポート・エクスポート'、
+      beta: 'ベータ'、
+      need_help: '助けが必要'、
+      guided_tour: 'ガイド付きツアー'、
+      tutorials: 'チュートリアル'、
+      keyboard_shortcuts: 'キーボードショートカット'、
+      sign_out: 'サインアウト'、
+      ok: 'OK'、
+      search_snippets: '検索スニペット'、
+      recent_updated: '最新のアップデート'、
+      latest_first: 「最新のものから」
+      oldest_first: 「最も古い」
+      snippet_title: 「スニペットにタイトルを付けます」、
+      snippet_description: 'ここにコードスニペットを記述してください（スニペットにコードを追加するには、下の[+ ADD CODE]ボタンを使用してください）、
+      private: 「プライベート」、
+      public: 'パブリック'、
+      files: 'ファイル'、
+      collapse_all: 'すべて折りたたむ'、
+      add_code: 'コードを追加'、
+      drag_drop: 'このスニペットに追加するファイルをドラッグアンドドロップしてください'、
+      no_snippets: 'スニペットが見つかりません'、
+      create_first_snippet: 「最初のスニペットを作成してください」、
+      first_snippet_info: 'サイドバーの[新しいスニペット]ボタンをクリックして開始します。'、
+      profile: 'プロフィール'、
+      editor: '編集者'、
+      data: 'データ'、
+      variables: '変数'、
+      code_overview: 'スニペット/コードの概要'、
+      snippet_access: 'スニペットアクセス'、
+      file_formats: 'ファイルフォーマット'、
+      select_editor_theme: 'エディタテーマの選択'、
+      theme_preview: 'テーマのプレビュー'、
+      save: '保存する'、
+      destroy_snippets: 'スニペットを破壊する'、
+      destroy_infor: 「すべてのスニペットとそのすべてのコンテンツを完全に削除します」、
+      delete: '削除'、
+      variables: '変数'、
+      settings: '設定'、
+      wrapper: 「ラッパー」、
+      date_format: '日付フォーマット'、
+      time_format: '時間フォーマット'、
+      import: 'インポート'
+    }
